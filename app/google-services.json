@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473671049790",
+    "firebase_url": "https://memenews-5ee7a.firebaseio.com",
+    "project_id": "memenews-5ee7a",
+    "storage_bucket": "memenews-5ee7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473671049790:android:55475216b6f0bf271ce76f",
+        "android_client_info": {
+          "package_name": "com.utsav.vgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473671049790-scachtibnkml99dd0ubj45if84l8gj14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utsav.vgapp",
+            "certificate_hash": "5d820962b19b92a96a4f601fcf4556fce57ea371"
+          }
+        },
+        {
+          "client_id": "473671049790-s2e9mjf3jsu1qq27gobqs7o9lsj4auea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fOY1l7f1Hw9BBLbJGFlIfS8l2b87z_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473671049790-s2e9mjf3jsu1qq27gobqs7o9lsj4auea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

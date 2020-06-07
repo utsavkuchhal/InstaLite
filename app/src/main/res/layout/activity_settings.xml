@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#fefefe"
+    android:layout_height="match_parent"
+    tools:context=".Settings">
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:id="@+id/share"
+        android:clickable="true"
+        android:layout_height="wrap_content"
+        android:text="Share this app"
+        android:textSize="19dp"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rate this app"
+        android:textSize="19dp"
+        android:id="@+id/rate"
+        android:clickable="true"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Feedback"
+        android:textSize="19dp"
+        android:clickable="true"
+        android:id="@+id/feedback"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Terms &amp; conditions"
+        android:textSize="19dp"
+        android:clickable="true"
+        android:id="@+id/terms"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Privacy"
+        android:id="@+id/privacy"
+        android:textSize="19dp"
+        android:clickable="true"
+        android:layout_marginLeft="20dp"
+        android:padding="20dp"
+        />
+
+</LinearLayout>
